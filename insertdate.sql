@@ -1,0 +1,1 @@
+insert into weather  values ('2017-10-25 10:20:10',10,20,30,40,25);
